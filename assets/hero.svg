@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090d1c"/><stop offset=".55" stop-color="#1c1037"/><stop offset="1" stop-color="#39173e"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#f96fc9" stop-opacity=".46"/><stop offset="1" stop-color="#f96fc9" stop-opacity="0"/></radialGradient>
+<linearGradient id="hair" x2=".8" y2="1"><stop stop-color="#1e1432"/><stop offset=".5" stop-color="#101129"/><stop offset="1" stop-color="#81346e"/></linearGradient>
+<linearGradient id="skin" x2=".6" y2="1"><stop stop-color="#ffe2dc"/><stop offset="1" stop-color="#b77c9c"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="17"/></filter>
+</defs>
+<rect width="1200" height="350" rx="24" fill="url(#bg)"/>
+<circle cx="950" cy="170" r="260" fill="url(#glow)"/>
+<path d="M0 310Q260 210 500 333T1200 262" stroke="#b86fff" stroke-width="2" opacity=".4" fill="none"/>
+<g fill="#fe8bdc" opacity=".7"><circle cx="60" cy="50" r="2"/><circle cx="205" cy="298" r="3"/><circle cx="560" cy="52" r="2"/><circle cx="1100" cy="38" r="3"/><path d="M720 40v19m-10-10h20M1054 285v18m-9-9h18" stroke="#ffb8ee" stroke-width="2"/></g>
+<g transform="translate(760 -18)">
+<path d="M140 340Q10 315 35 130Q45 1 185 8Q340 10 343 170Q350 310 408 352Z" fill="url(#hair)" stroke="#94508c" stroke-width="4"/>
+<path d="M80 355Q85 273 160 250L242 248Q335 270 347 355" fill="#11101d" stroke="#dd73c8" stroke-width="4"/>
+<rect x="169" y="210" width="67" height="68" rx="22" fill="#c78f9a"/>
+<ellipse cx="199" cy="164" rx="103" ry="122" fill="url(#skin)" stroke="#d398ac" stroke-width="3"/>
+<path d="M94 156Q113 40 200 45Q287 45 301 151Q262 123 242 84Q229 137 182 132Q128 150 94 156" fill="url(#hair)"/>
+<path d="M106 167Q149 152 183 163M222 165Q253 151 286 160" fill="none" stroke="#34233c" stroke-width="7" stroke-linecap="round"/>
+<path d="M119 177Q146 192 176 176Q145 168 119 177ZM231 177Q256 191 277 174Q257 171 231 177" fill="#fff3f2"/>
+<ellipse cx="147" cy="179" rx="10" ry="14" fill="#a04e9e"/><ellipse cx="254" cy="178" rx="10" ry="14" fill="#a04e9e"/>
+<circle cx="143" cy="175" r="4" fill="white"/><circle cx="250" cy="173" r="4" fill="white"/>
+<path d="M179 224Q196 233 219 222" fill="none" stroke="#9a546b" stroke-width="4" stroke-linecap="round"/>
+<path d="M73 143Q55 290 90 341M295 141Q329 253 288 343" stroke="#1a1029" stroke-width="36" fill="none" stroke-linecap="round"/>
+<path d="M99 75Q82 35 56 38Q49 72 70 106M290 74Q325 21 353 35Q362 72 325 109" fill="#271730" stroke="#df8ccc" stroke-width="4"/>
+<path d="M58 55L66 82L81 73M338 55L323 84L313 72" fill="#e891c5"/>
+<path d="M161 255L198 284L237 253" fill="none" stroke="#ff93d9" stroke-width="5"/>
+</g>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+<text x="54" y="62" fill="#ef9add" font-size="17">✦ 夜の開発部 / late night developer club</text>
+<text x="54" y="152" fill="white" font-size="67" font-weight="900" letter-spacing="-2">kolbaska11</text>
+<text x="55" y="195" fill="#d99fe6" font-size="24">dev × design × mini projects × fun code</text>
+<text x="55" y="235" fill="#bba7ce" font-size="20">好きなものを作る。 · create what you love ♡</text>
+<rect x="54" y="261" width="560" height="52" rx="12" fill="#0d0b1e" stroke="#8759a1" stroke-opacity=".8"/>
+<circle cx="80" cy="286" r="5" fill="#ff84bf"/><circle cx="99" cy="286" r="5" fill="#ffd18a"/><circle cx="118" cy="286" r="5" fill="#a4ebad"/>
+<text x="140" y="294" font-size="18" fill="#d7bbf4">kolbaska11@github:~$</text>
+<text x="378" y="294" font-size="18" fill="#faf3ff">make something cool_</text>
+</g>
+<text x="1120" y="326" fill="#ef99d7" font-size="23">♡</text>
+</svg>
