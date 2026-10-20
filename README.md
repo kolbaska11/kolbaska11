@@ -47,6 +47,30 @@ mood: "creating useful stuff, one commit at a time"
 
 <sub>※ Некоторые эксперименты остаются приватными. В списке выше только публичные репозитории.</sub>
 
+### <code>~/anime-x-code</code> <sub>· 人気キャラ ♡</sub>
+
+<div align="center">
+<sub>Любимые взрослые героини аниме + книги по программированию 📚</sub>
+
+<table>
+<tr>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Makise%20Kurisu_Python.jpg" width="170" alt="Makise Kurisu — Steins;Gate" /><br/><sub>⚗️ <b>Makise Kurisu</b><br/>Steins;Gate</sub></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/AI/Nico_Robin_Bishop_ML.png" width="170" alt="Nico Robin — One Piece" /><br/><sub>📚 <b>Nico Robin</b><br/>One Piece</sub></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/AI/tsunade_artificial.png" width="170" alt="Tsunade — Naruto" /><br/><sub>🍶 <b>Tsunade</b><br/>Naruto</sub></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Freiren_Holding_Python_Book.png" width="170" alt="Frieren — Frieren" /><br/><sub>🌙 <b>Frieren</b><br/>Frieren</sub></td>
+</tr>
+<tr>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Editors/Kobayashi_Holding_GNU_Emacs_Book.png" width="170" alt="Kobayashi — Miss Kobayashi's Dragon Maid" /><br/><sub>🐉 <b>Kobayashi</b><br/>Miss Kobayashi's Dragon Maid</sub></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Java/Misato_Katsuragi_Head_First_Java.png" width="170" alt="Misato Katsuragi — Evangelion" /><br/><sub>✨ <b>Misato Katsuragi</b><br/>Evangelion</sub></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Design%20Patterns/Holo_Designing_Data-Intensive_Applications.png" width="170" alt="Holo — Spice and Wolf" /><br/><sub>🐺 <b>Holo</b><br/>Spice and Wolf</sub></td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Rize_Kamishiro_reading_Automate_the_boring_stuff_python.png" width="170" alt="Rize Kamishiro — Tokyo Ghoul" /><br/><sub>🖤 <b>Rize Kamishiro</b><br/>Tokyo Ghoul</sub></td>
+</tr>
+</table>
+
+<sub>Art from <a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books">Anime Girls Holding Programming Books</a> · Original creators retain their rights · かわいいは正義！</sub>
+
+</div>
+
 ### <code>~/anime-corner</code> <sub>· 推しとかわいいもの ♡</sub>
 
 <div align="center">
