@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="350" viewBox="0 0 250 350">
+<defs>
+<linearGradient id="bg" x2=".7" y2="1"><stop stop-color="#21173c"/><stop offset="1" stop-color="#0b0d1d"/></linearGradient>
+<linearGradient id="h" x2="1" y2="1"><stop stop-color="#8965c0"/><stop offset="1" stop-color="#4b296c"/></linearGradient>
+<linearGradient id="s" x2="1" y2="1"><stop stop-color="#ffded6"/><stop offset="1" stop-color="#d6a09f"/></linearGradient>
+<linearGradient id="cl" x2="1" y2="1"><stop stop-color="#4b296c"/><stop offset="1" stop-color="#120f24"/></linearGradient>
+</defs>
+<rect width="250" height="350" rx="16" fill="url(#bg)"/>
+<rect x="2" y="2" width="246" height="346" rx="14" fill="none" stroke="#c59af8" stroke-opacity=".5" stroke-width="2"/>
+<g opacity=".22" stroke="#c59af8" fill="none"><circle cx="127" cy="139" r="104"/><circle cx="128" cy="138" r="87"/><path d="M-30 90L250 -30M-20 320L260 90"/></g>
+<g fill="#c59af8" opacity=".8"><circle cx="25" cy="42" r="3"/><circle cx="226" cy="63" r="2"/><circle cx="210" cy="240" r="3"/><path d="M19 195v15m-8-7h16M218 98v15m-8-7h16" stroke="#c59af8" stroke-width="2"/></g>
+<path d="M68 92Q33 191 44 310L89 320L81 119ZM188 94Q228 176 213 323L169 320L176 122Z" fill="url(#h)" stroke="#4b296c" stroke-width="3"/>
+<path d="M17 297Q22 249 84 241Q101 234 118 241L149 240Q220 251 237 296L237 349L17 349Z" fill="url(#cl)" stroke="#c59af8" stroke-width="3"/>
+<path d="M109 218L109 265Q129 285 151 263L151 218Z" fill="#d3a29f"/>
+<ellipse cx="132" cy="157" rx="64" ry="83" fill="url(#s)"/>
+<ellipse cx="75" cy="182" rx="13" ry="18" fill="#e0a7ab"/>
+<ellipse cx="190" cy="182" rx="13" ry="18" fill="#e0a7ab"/>
+<path d="M88 157Q108 146 121 156M147 156Q163 147 183 157" stroke="#392c46" stroke-width="5" stroke-linecap="round" fill="none"/>
+<path d="M88 167Q107 182 125 167Q109 163 88 167ZM146 167Q163 180 180 165Q160 163 146 167" fill="#fffcfe"/>
+<ellipse cx="108" cy="170" rx="8" ry="11" fill="#804cad"/><ellipse cx="161" cy="170" rx="8" ry="11" fill="#804cad"/>
+<circle cx="105" cy="167" r="3.5" fill="#fff"/><circle cx="158" cy="167" r="3.5" fill="#fff"/>
+<path d="M134 176L130 188L137 190" fill="none" stroke="#ad707a" stroke-width="2"/>
+<path d="M118 207Q132 214 147 205" stroke="#a55970" stroke-width="3" fill="none" stroke-linecap="round"/>
+<ellipse cx="94" cy="193" rx="18" ry="7" fill="#fc93b0" opacity=".23"/><ellipse cx="172" cy="192" rx="18" ry="7" fill="#fc93b0" opacity=".23"/>
+<path d="M69 133Q73 62 125 57Q181 59 203 135L173 109L163 133L136 104L115 140L97 110L87 143Z" fill="url(#h)" stroke="#4b296c" stroke-width="2"/>
+<path d='M68 85Q48 53 62 34Q86 51 92 81M169 84Q188 50 214 37Q224 63 198 91' fill='#121020' stroke='#de9ff8' stroke-width='5'/><path d='M111 247Q135 262 155 246' fill='none' stroke='#ad75ea' stroke-width='6'/><circle cx='132' cy='260' r='8' fill='#1a1329' stroke='#d38dfc' stroke-width='3'/>
+<path d="M21 304H229" stroke="#c59af8" opacity=".4"/>
+<rect x="15" y="292" width="220" height="44" rx="8" fill="#0a0c1b" fill-opacity=".78"/>
+<text x="125" y="310" text-anchor="middle" fill="#f5e3fa" font-size="14" font-family="Consolas,monospace" font-weight="700" letter-spacing="2">YUNA</text>
+<text x="125" y="326" text-anchor="middle" fill="#c59af8" font-size="13" font-family="sans-serif">ゴシック ♡</text>
+</svg>
