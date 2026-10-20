@@ -1,24 +1,22 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="kolbaska11 — code, design, anime" />
+# kolbaska11 〰️ code / design / anime
 
-<br>
+<sub>開発 • デザイン • 小さなプロジェクト • 楽しいコード</sub>
 
-<sub>✦ ようこそ、私の小さな世界へ。 · Welcome to my little corner of GitHub ✦</sub>
-
-### <code>dev × design × mini projects × fun code</code>
-
-**Привет! Я `kolbaska11` — пишу код, делаю дизайн и люблю превращать случайные идеи в работающие штуки.**
-
-![Python](https://img.shields.io/badge/Python-1a1730?style=for-the-badge&logo=python&logoColor=ffd86f)
-![C%23](https://img.shields.io/badge/C%23-1a1730?style=for-the-badge&logo=csharp&logoColor=e18bff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1730?style=for-the-badge&logo=postgresql&logoColor=8bb9ff)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-1a1730?style=for-the-badge&logo=visualstudiocode&logoColor=72d7ff)
-![Design](https://img.shields.io/badge/Design-1a1730?style=for-the-badge&logo=figma&logoColor=ff9cd5)
+### 🖤 Good code. Good design. Good anime. ♡
 
 </div>
 
-<img src="./assets/strip.svg" width="100%" alt="Kawaii dev club" />
+<div align="center">
+
+### dev × design × mini projects × fun code
+
+**Привет! Я `kolbaska11`. Пишу код, создаю макеты и делаю небольшие полезные и забавные проекты.**
+
+![Python](https://img.shields.io/badge/Python-1a1730?style=for-the-badge&logo=python&logoColor=ffd86f) ![C%23](https://img.shields.io/badge/C%23-1a1730?style=for-the-badge&logo=csharp&logoColor=e18bff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1730?style=for-the-badge&logo=postgresql&logoColor=8bb9ff) ![Design](https://img.shields.io/badge/Design-1a1730?style=for-the-badge&logo=figma&logoColor=ff9cd5)
+
+</div>
 
 ### <code>~/about-me</code> <sub>· 私について</sub>
 
@@ -47,51 +45,37 @@ mood: "creating useful stuff, one commit at a time"
 
 <sub>※ Некоторые эксперименты остаются приватными. В списке выше только публичные репозитории.</sub>
 
-### <code>~/anime-x-code</code> <sub>· 人気キャラ ♡</sub>
+### <code>~/waifu-lab</code> <sub>♡ かわいいとコード · Anime × Development</sub>
 
 <div align="center">
-<sub>Любимые взрослые героини аниме + книги по программированию 📚</sub>
 
-<table>
-<tr>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Makise%20Kurisu_Python.jpg" width="170" alt="Makise Kurisu — Steins;Gate" /><br/><sub>⚗️ <b>Makise Kurisu</b><br/>Steins;Gate</sub></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/AI/Nico_Robin_Bishop_ML.png" width="170" alt="Nico Robin — One Piece" /><br/><sub>📚 <b>Nico Robin</b><br/>One Piece</sub></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/AI/tsunade_artificial.png" width="170" alt="Tsunade — Naruto" /><br/><sub>🍶 <b>Tsunade</b><br/>Naruto</sub></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Freiren_Holding_Python_Book.png" width="170" alt="Frieren — Frieren" /><br/><sub>🌙 <b>Frieren</b><br/>Frieren</sub></td>
-</tr>
-<tr>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Editors/Kobayashi_Holding_GNU_Emacs_Book.png" width="170" alt="Kobayashi — Miss Kobayashi's Dragon Maid" /><br/><sub>🐉 <b>Kobayashi</b><br/>Miss Kobayashi's Dragon Maid</sub></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Java/Misato_Katsuragi_Head_First_Java.png" width="170" alt="Misato Katsuragi — Evangelion" /><br/><sub>✨ <b>Misato Katsuragi</b><br/>Evangelion</sub></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Design%20Patterns/Holo_Designing_Data-Intensive_Applications.png" width="170" alt="Holo — Spice and Wolf" /><br/><sub>🐺 <b>Holo</b><br/>Spice and Wolf</sub></td>
-<td width="25%" align="center"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Rize_Kamishiro_reading_Automate_the_boring_stuff_python.png" width="170" alt="Rize Kamishiro — Tokyo Ghoul" /><br/><sub>🖤 <b>Rize Kamishiro</b><br/>Tokyo Ghoul</sub></td>
-</tr>
-</table>
+**Только три любимые вселенные: Evangelion · Naruto · Spy × Family**
 
-<sub>Art from <a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books">Anime Girls Holding Programming Books</a> · Original creators retain their rights · かわいいは正義！</sub>
+<sub>Каждой героине — свой характер и свой dev-настрой. Не набор одинаковых лиц, а узнаваемые персонажи.</sub>
 
 </div>
 
-### <code>~/anime-corner</code> <sub>· 推しとかわいいもの ♡</sub>
+<h3 align="center">NEON GENESIS EVANGELION · エヴァンゲリオン</h3>
+<table align="center"><tr><td align="center" width="33%"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Java/Misato_Katsuragi_Head_First_Java.png" alt="Мисато Кацураги" width="225" height="235"><br><b>Мисато Кацураги</b><br><sub>Java ☕</sub></td>
+<td align="center" width="33%"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%23/Rei_Ayanami_C%23.png" alt="Рей Аянами" width="225" height="235"><br><b>Рей Аянами</b><br><sub>C# 💜</sub></td>
+<td align="center" width="33%"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Smug_Asuka_Holding_The_C_Programming_Language.png" alt="Аска Лэнгли" width="225" height="235"><br><b>Аска Лэнгли</b><br><sub>C 💻</sub></td></tr></table>
+
+<h3 align="center">NARUTO · ナルト</h3>
+<table align="center"><tr><td align="center" width="33%"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/AI/tsunade_artificial.png" alt="Цунаде" width="225" height="235"><br><b>Цунаде</b><br><sub>AI 🤖</sub></td>
+<td align="center" width="33%"><img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/AI/Sakura_Haruno_Reinforcement_Learning.png" alt="Сакура Харуно" width="225" height="235"><br><b>Сакура Харуно</b><br><sub>Reinforcement Learning 🧠</sub></td>
+<td align="center" width="33%"><img src="https://luvi-game.com/images/luvi-common/Konan.png" alt="Конан" width="225" height="235"><br><b>Конан</b><br><sub>Design 🎨</sub></td></tr></table>
+
+<h3 align="center">SPY × FAMILY · スパイファミリー</h3>
+<table align="center"><tr><td align="center" width="33%"><img src="https://luvi-game.com/images/luvi-common/Yor-Forger.png" alt="Йор Форджер" width="225" height="235"><br><b>Йор Форджер</b><br><sub>UI / UX 🌹</sub></td>
+<td align="center" width="33%"><img src="https://luvi-game.com/images/luvi-common/Fiona-Frost.png" alt="Фиона Фрост" width="225" height="235"><br><b>Фиона Фрост</b><br><sub>Debugging ❄️</sub></td>
+<td align="center" width="33%"><img src="https://luvi-game.com/images/luvi-common/Anya-Forger.png" alt="Аня Форджер" width="225" height="235"><br><b>Аня Форджер</b><br><sub>Waku waku! 🥜</sub></td></tr></table>
 
 <div align="center">
-<img src="./assets/gallery-title.svg" width="100%" alt="Waifu arcade — かわいいは正義" />
 
-<table>
-<tr>
-<td width="25%" align="center"><img src="./assets/waifu/airi.svg" width="190" alt="Airi, pink neko girl" /><br/><sub>🌸 Airi · かわいい</sub></td>
-<td width="25%" align="center"><img src="./assets/waifu/rei.svg" width="190" alt="Rei, silver-haired cyber girl" /><br/><sub>❄️ Rei · クール</sub></td>
-<td width="25%" align="center"><img src="./assets/waifu/akane.svg" width="190" alt="Akane, crimson samurai" /><br/><sub>🔥 Akane · 強い</sub></td>
-<td width="25%" align="center"><img src="./assets/waifu/mika.svg" width="190" alt="Mika, bespectacled girl" /><br/><sub>📚 Mika · めがね</sub></td>
-</tr>
-<tr>
-<td width="25%" align="center"><img src="./assets/waifu/luna.svg" width="190" alt="Luna, blonde witch" /><br/><sub>🌙 Luna · 魔法</sub></td>
-<td width="25%" align="center"><img src="./assets/waifu/nami.svg" width="190" alt="Nami, teal-haired hacker" /><br/><sub>🎧 Nami · 夜更かし</sub></td>
-<td width="25%" align="center"><img src="./assets/waifu/yuna.svg" width="190" alt="Yuna, violet gothic girl" /><br/><sub>🦇 Yuna · ゴシック</sub></td>
-<td width="25%" align="center"><img src="./assets/waifu/sora.svg" width="190" alt="Sora, blue-haired girl" /><br/><sub>💙 Sora · 青空</sub></td>
-</tr>
-</table>
+<sub>♡ かわいいは正義 · Code. Coffee. Anime. Repeat.</sub>
 
-<sub>Original anime-inspired illustrations · 8 different characters · ♡ かわいいは正義 ♡</sub>
+<sub>Иллюстрации с книгами: <a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books">Anime Girls Holding Programming Books</a>. Остальные изображения: <a href="https://luvi-game.com/">Luvi</a>. Права на персонажей принадлежат их авторам.</sub>
+
 </div>
 
 ### <code>~/activity</code> <sub>· 毎日少しずつ</sub>
@@ -102,6 +86,6 @@ mood: "creating useful stuff, one commit at a time"
 
 <sub>Small commits, big dreams. · 継続は力なり。</sub>
 
-<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" />
+<sub>✦ またね！ • See you in the next commit ♡</sub>
 
 </div>
