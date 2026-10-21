@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="124" viewBox="0 0 1200 124">
-<defs><linearGradient id="bg"><stop stop-color="#0d0d1d"/><stop offset=".55" stop-color="#251134"/><stop offset="1" stop-color="#0d0d1d"/></linearGradient></defs>
-<rect width="1200" height="124" rx="18" fill="url(#bg)"/>
-<path d="M45 65Q110 24 172 69Q242 102 300 50" fill="none" stroke="#ea88c7" stroke-width="2"/>
-<path d="M900 50Q970 105 1040 70Q1110 31 1155 67" fill="none" stroke="#ea88c7" stroke-width="2"/>
-<text x="600" y="50" text-anchor="middle" fill="#f5b2e1" font-family="Consolas,monospace" font-size="24">コード · デザイン · 音楽 · アニメ</text>
-<text x="600" y="88" text-anchor="middle" fill="#b79ac8" font-family="Consolas,monospace" font-size="20">thanks for visiting ♡ またね！</text>
-</svg>

@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130">
-<defs><linearGradient id="b"><stop stop-color="#1b1233"/><stop offset=".55" stop-color="#31183a"/><stop offset="1" stop-color="#141226"/></linearGradient></defs>
-<rect width="1200" height="130" rx="20" fill="url(#b)"/><rect x="1" y="1" width="1198" height="128" rx="19" fill="none" stroke="#955a9d"/>
-<g fill="#eda1d5"><path d="M65 40l6 17 17 6-17 6-6 17-6-17-17-6 17-6ZM1130 29l4 14 14 4-14 4-4 14-4-14-14-4 14-4Z"/></g>
-<text x="600" y="54" text-anchor="middle" font-family="Consolas,monospace" font-size="35" font-weight="bold" fill="#ffd2ef">WAIFU ARCADE ♡</text>
-<text x="600" y="91" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#c8a4f0">推しキャラ · かわいいは正義 · 8 unique moods</text>
-</svg>
