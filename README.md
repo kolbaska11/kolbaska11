@@ -1,10 +1,8 @@
 <div align="center">
 
-# kolbaska11 〰️ code / design / anime
+# kolbaska11 〰️ code / design 
 
-<sub>開発 • デザイン • 小さなプロジェクト • 楽しいコード</sub>
-
-### 🖤 Good code. Good design. Good anime. ♡
+### 🖤 Good code. Good design. ♡
 
 </div>
 
