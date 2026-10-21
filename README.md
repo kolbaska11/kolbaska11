@@ -1,52 +1,71 @@
 <p align="center">
-  <img src="assets/hero-main.jpg" alt="Ночная anime/dev-студия: неоновый город, сакура, код и любимые персонажи" width="100%" />
+  <img src="assets/night-studio.jpg" alt="Тихая ночная студия: свет мониторов, кофе и дождливый город за окном" width="100%" />
 </p>
 
 <div align="center">
 
-# kolbaska11
+# Привет, я Егор 👋
 
-**dev × design × mini projects × fun code**
+**🎓 Учёба · 🎨 Дизайн · 🛠 Любительский код**
 
-*Good code. Good design. Good anime.*
+Делаю макеты для печати, учусь на прикладной информатике  
+и пишу небольшие программы для своих задач.
 
-Привет, я **kolbaska11**. Делаю код, дизайн, мини-проекты и просто интересные штуки.  
-Люблю музыку, аниме, ночную эстетику и собирать вещи, которыми приятно пользоваться.
+Обычно всё начинается с «а это можно автоматизировать?» —  
+и заканчивается ещё одной папкой с проектом 😅
 
 </div>
 
 <br />
 
-### About me
+### Что у меня происходит
 
-**Developer / Designer** · Applied Informatics student
+- **🎓 Учёба.** Прикладная информатика в КубГТУ: лабораторные, базы данных и курсовые проекты. Разбираюсь в Python, C# и SQL, пробую идеи на практике.
+- **🎨 Дизайн.** Работаю с полиграфией: визитки, этикетки, баннеры, меню и макеты для печати. Заодно интересуюсь интерфейсами — хочется, чтобы было и удобно, и красиво.
+- **🛠 Любительский код.** Пишу утилиты, когда надоедает делать одно и то же руками. Учусь по ходу дела и постепенно довожу свои маленькие проекты до рабочего состояния.
 
-Пишу на **Python и C#**, работаю с **PostgreSQL**, пробую **Web** и создаю дизайн — от полиграфии до интерфейсов. Люблю небольшие полезные инструменты и creative coding.
-
-**Music · Anime · Mini Projects · Creative Coding**
-
-<br />
-
-<p align="center">
-  <img src="assets/waifu-strip.jpg" alt="Anime × development: музыка, кофе, код и розово-фиолетовый неон" width="100%" />
-</p>
-
-<br />
-
-### Projects
-
-- **[liner-importer-vk-yandex-music](https://github.com/kolbaska11/liner-importer-vk-yandex-music)** — перенос списков треков из VK и Яндекс Музыки в YouTube Music с подготовкой для Liner.
-- **[SiteAP](https://github.com/kolbaska11/SiteAP)** — публичная интерактивная демонстрация клиентского интерфейса типографии «Арт Проджект».
-- **[kp-pi-Pelevin](https://github.com/kolbaska11/kp-pi-Pelevin)** — JobFinder: учебное приложение поиска работы и персонала на Python, Tkinter и SQLite.
-- **[PythonLabs-2nd-kurs](https://github.com/kolbaska11/PythonLabs-2nd-kurs)** — практика Python: регулярные выражения, проверка формата дат и обработка исключений.
-- **[databases](https://github.com/kolbaska11/databases)** — учебный отчёт по лабораторной работе с базами данных.
-
-**Mini tools** · [MTS → MP4](https://github.com/kolbaska11/mts-to-mp4-converter) · [Фото → A5 PDF](https://github.com/kolbaska11/photos-to-a5-pdf) · [Превью макетов](https://github.com/kolbaska11/print-mockup-preview) · [Удаление фона](https://github.com/kolbaska11/batch-background-remover)
+**В работе и учёбе:** Python · C# · PostgreSQL · Web · Графический дизайн
 
 <br />
 
 <p align="center">
-  <img src="assets/final-banner.jpg" alt="Финальный ночной арт: сакура, городские огни, кофе и атмосфера творчества" width="100%" />
+  <img src="assets/design-workbench.jpg" alt="Рабочий стол дизайнера: макеты, бумага, планшет, музыка и тёплый свет" width="100%" />
 </p>
 
-<p align="center"><sub>Create what you love. · See you in the next commit ♡</sub></p>
+<br />
+
+### 🔨 Проекты, которыми занимаюсь
+
+**🖨️ [Арт Проджект · SiteAP](https://github.com/kolbaska11/SiteAP)**  
+Интерфейс для типографии: заказы, предварительный расчёт стоимости, переписка и помощь клиенту. Продумываю, как собрать привычную рабочую рутину в одном понятном месте. В репозитории можно посмотреть публичную демоверсию.
+
+**💼 [JobFinder · Биржа труда](https://github.com/kolbaska11/kp-pi-Pelevin)**  
+Учебный проект о поиске работы и персонала. Практикую Python, Tkinter и SQLite: от интерфейса до работы с данными.
+
+**🎧 [Liner Importer](https://github.com/kolbaska11/liner-importer-vk-yandex-music)**  
+Инструмент для переноса списков треков из VK и Яндекс Музыки через YouTube Music с подготовкой для Liner. Музыкальная задача, которая превратилась в отдельный проект.
+
+**🧰 Небольшие помощники для файлов и макетов**  
+Собрал семь Python-утилит для задач, с которыми сталкиваюсь сам:
+
+- 🎬 [MTS → MP4](https://github.com/kolbaska11/mts-to-mp4-converter) — конвертация видео с камеры.
+- 📐 [Размеры страниц PDF](https://github.com/kolbaska11/pdf-page-size-counter) — подсчёт форматов перед печатью.
+- 🖼️ [Фото → A5 PDF](https://github.com/kolbaska11/photos-to-a5-pdf) — фотографии в одном документе.
+- 🔎 [Анализатор имён](https://github.com/kolbaska11/filename-analyzer) — списки файлов и совпадения по названиям.
+- ✨ [Превью макетов](https://github.com/kolbaska11/print-mockup-preview) — аккуратные картинки для согласования.
+- ✂️ [Удаление фона](https://github.com/kolbaska11/batch-background-remover) — пакетная подготовка прозрачных PNG.
+- 📄 [PDF → страницы-картинки](https://github.com/kolbaska11/pdf-to-image-pdf) — растровая копия PDF.
+
+**📚 Учебная полка:** [практика Python](https://github.com/kolbaska11/PythonLabs-2nd-kurs) · [лабораторная по базам данных](https://github.com/kolbaska11/databases)
+
+<br />
+
+### ☕ За кадром
+
+Музыка помогает работать, а игры и аниме — переключаться. Люблю ночную атмосферу, хорошие арты и вещи с характером.
+
+<p align="center">
+  <img src="assets/after-rain.jpg" alt="Город после дождя: отражения огней, тихая набережная и ранний рассвет" width="100%" />
+</p>
+
+<p align="center"><sub>Потихоньку собираю своё — в коде и в дизайне ✨</sub></p>
